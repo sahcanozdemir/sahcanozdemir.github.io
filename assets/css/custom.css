@@ -1,0 +1,11 @@
+/* Center the navigation menu */
+#navbar ul.navbar-nav {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #navbar ul.navbar-nav > li {
+    margin: 0 15px; /* optional spacing */
+  }
+  

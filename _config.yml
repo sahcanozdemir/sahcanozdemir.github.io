@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Sahcan Ozdemir"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "sahcanozdemir"  # Replace this with your X / Twitter handle
+  twitter          : # Username  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -201,7 +201,7 @@ kramdown:
 collections:
   teaching:
     output: false
-    permalink: /:collection/:path/
+    permalink: 
   publications:
     output: true
     permalink: /:collection/:path/
@@ -239,8 +239,8 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: false
-      share: false
+      author_profile: true
+      share: true
       comments: true
   # _publications
   - scope:
