@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sahcan Ozdemir"
+title                    : "Şahcan Özdemir"
 title_separator          : "-"
-name                     : &name "Sahcan Ozdemir"
+name                     : &name "Şahcan Özdemir"
 description              : &description "personal description"
 url                      : https://sahcanozdemir.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Sahcan Ozdemir"
+  name             : "Şahcan Özdemir"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
   location         : "Dortmund / Germany"
-  employer         : "@IfADo / Information Processing Group"
+  employer         : "@IfADo"
   uri              : # URL
   email            : "oezdemir@ifado.de" 
 
