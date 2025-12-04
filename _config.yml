@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Şahcan Özdemir"
+title                    : "About me"
 title_separator          : "-"
-name                     : &name "About me"
+name                     : &name "Şahcan Özdemir"
 description              : &description "personal description"
 url                      : https://sahcanozdemir.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
