@@ -173,6 +173,7 @@
    ========================================================================== */
 
 .greedy-nav {
+  text-align: center;
   position: relative;
   min-width: 250px;
   background: var(--global-bg-color);
@@ -203,13 +204,16 @@
   }
 
   .visible-links {
-    display: table;
+    display: inline-block;
 
     li {
-      display: table-cell;
+      display: inline-block;
       vertical-align: middle;
 
       &:first-child {
+          position: absolute;
+          left: 0rem;           /* adjust this as you like */
+          transform: none;
         font-weight: bold;
         text-wrap: wrap;
 
