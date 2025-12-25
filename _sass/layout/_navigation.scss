@@ -193,6 +193,27 @@
   }
 }
 
+/* DESKTOP ONLY: first item left, rest centered */
+@media screen and (min-width: 769px) {
+  .greedy-nav {
+    text-align: center !important;
+  }
+
+  .greedy-nav .visible-links {
+    display: inline-block !important;
+  }
+
+  .greedy-nav .visible-links li {
+    display: inline-block !important;
+  }
+
+  .greedy-nav .visible-links li:first-child {
+    position: absolute !important;
+    left: 1rem !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+  }
+}
 .greedy-nav {
   text-align: center;
   position: relative;
