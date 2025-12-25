@@ -171,6 +171,27 @@
 /*
    Priority plus navigation
    ========================================================================== */
+/* MOBILE: restore theme behavior so hamburger works */
+@media (max-width: 768px) {
+  .greedy-nav {
+    text-align: left !important;
+  }
+
+  .greedy-nav .visible-links {
+    display: table !important;
+  }
+
+  .greedy-nav .visible-links li {
+    display: table-cell !important;
+  }
+
+  .greedy-nav .visible-links li:first-child {
+    position: static !important;
+    left: auto !important;
+    top: auto !important;
+    transform: none !important;
+  }
+}
 
 .greedy-nav {
   text-align: center;
@@ -446,3 +467,4 @@
     }
   }
 }
+
