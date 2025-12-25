@@ -1,177 +1,47 @@
 ---
-title: "Archive Layout with Content"
+title: "Posters & Talks"
 layout: archive
-permalink: /notes/
+permalink: /posters/
 ---
 
-A variety of common markup showing how the theme styles them.
+**NVP Winter Conference** Egmond aan Zee, the Netherlands, 2025   
+***Poster***    
+**Özdemir, Ş.**, Ataseven, N., Kruijne, W., Akyürek, A. & Schneider, D. Selective attention is a key feature of motor code formation in working memory
 
-# Header one
+**Psychology and Brain Conference (PuG)** Würzburg, Germany, 2025    
+***Poster***  
+**Özdemir, Ş.**, Günseli, E. & Schneider, D. Action Control and Working Memory Interference
 
-## Header two
+**Vision Science Society (VSS) Annual Meeting** Florida, USA, 2025   
+***Poster***  
+**Özdemir, Ş.**, Günseli, E. & Schneider, D. Task-relevant actions trigger automatic working memory updating
 
-### Header three
+**Conference of Experimental Psychologists (TeaP)** Frankfurt, Germany, 2025  
+***Symposium Organizer/Chair***  
+Title: Goal-oriented information processing: Adaptive working memory  
+Presenters: Sven Ohl, Wouter Kruijne, Saskia Fohs, Guiliana Giorjiani, **Şahcan Özdemir**  
+***Talk***  
+**Özdemir, Ş.**, Günseli, E. & Schneider, D. The role of motor representations for working memory when dealing with interference
 
-#### Header four
+**Society for Psychophysiological Research (SPR) Meeting** Prague, Czech Republic, 2024  
+***Poster***  
+**Özdemir, Ş.**, Günseli, E. & Schneider, D. The role of motor representations for working memory when dealing with interference: new evidence by neural oscillations
 
-##### Header five
+**Working Memory Symposium** Online, 2024  
+***Talk***  
+**Özdemir, Ş.**, Günseli, E. & Schneider, D. The role of motor preparations in working memory gating
 
-###### Header six
+**Psychology and Brain Conference (PuG)** Hamburg, Germany, 2024  
+***Poster***  
+**Özdemir, Ş.**, Günseli, E. & Schneider, D. The role of motor representations for working memory when dealing with interference: New evidence by neural oscillations
 
-## Blockquotes
+**European Society for Cognitive Psychology Meeting (ESCOP)** *Porto, Portugal, 2023*   
+***Poster***  
+**Özdemir, Ş.**, Öztürk, Y., Ünver, N., Egner, T., Olivers, C.N.L., & Günseli, E. Effects of Context
+Changes on Memory Reactivations
 
-Single line blockquote:
+**Working Memory Symposium** *Online, 2023*   
+***Talk***  
+**Özdemir, Ş.**, Öztürk, Y., Ünver, N., Egner, T., Olivers, C.N.L., & Günseli, E. Effects of Context
+Changes on Memory Reactivations
 
-> Quotes are cool.
-
-## Tables
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](https://github.com "GitHub").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
-
-{% include base_path %}
-{% for post in site.pages %}
-{% include archive-single.html %}
-{% endfor %}

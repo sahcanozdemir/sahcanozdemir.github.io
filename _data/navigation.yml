@@ -24,7 +24,7 @@ main:
   #  url: /year-archive/
         
   - title: "Posters & Talks"
-    url: /notes/
+    url: /posters/
 
   - title: "CV"
     url: /cv/

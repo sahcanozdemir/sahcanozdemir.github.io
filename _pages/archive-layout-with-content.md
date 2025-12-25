@@ -1,9 +1,9 @@
 ---
-title: "Archive Layout with Content"
+title: "Posters & Talks"
 layout: archive
 permalink: /archive-layout-with-content/
 ---
-
+new stuff
 A variety of common markup showing how the theme styles them.
 
 # Header one

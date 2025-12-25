@@ -20,9 +20,8 @@ redirect_from:
   height: 100%;
   border: none;
 }
+
 </style>
-
-
 <div class="pdf-container">
-  <iframe src="/files/Sahcan_CV.pdf"></iframe>
+  <iframe src="/files/Sahcan_newCV.pdf"></iframe>
 </div>
