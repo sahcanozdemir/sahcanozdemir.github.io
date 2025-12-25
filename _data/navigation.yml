@@ -22,12 +22,13 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
+        
+  - title: "Posters & Talks"
+    url: /notes/
+
   - title: "CV"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
+
     
   #- title: "Guide"
   #  url: /markdown/

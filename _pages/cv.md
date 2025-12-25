@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Curriculum Vitae (Last updated: 21.12.2025)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -21,6 +21,7 @@ redirect_from:
   border: none;
 }
 </style>
+
 
 <div class="pdf-container">
   <iframe src="/files/Sahcan_CV.pdf"></iframe>
