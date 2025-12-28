@@ -18,5 +18,5 @@ My research focuses on **working memory**, a fundamental cognitive system that t
 
 My work brings human neuroimaging (mostly **EEG**), psychophysical and computational methods to explore the adaptive nature of working memory as a function of goal-directed behaviour.  
 
-If you are interested in collaboration, literature discussions, sharing your thoughts on my research, please feel free to get in touch via email (*through the email button on the left panel*).
+If you are interested in collaboration, literature discussions, sharing your thoughts on my research, please feel free to get in touch via email.
 
