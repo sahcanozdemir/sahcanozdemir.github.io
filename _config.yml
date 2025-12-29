@@ -26,7 +26,9 @@ author:
   avatar           : "Sahcan.png"
   name             : "Șahcan Özdemir"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate"
+  bio              : "<strong>PhD Candidate</strong> <br> 
+                     Cognitive Neuroscience <br>
+                     Memory | Attention"
   location         : # location name 
   employer         : "IfADo"
   employer_uri     : "https://www.ifado.de/en/"
