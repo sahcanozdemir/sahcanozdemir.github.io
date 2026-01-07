@@ -3,6 +3,9 @@ title: "Posters & Talks"
 layout: archive
 permalink: /posters/
 ---
+**Cognitive Neuroscience Society 2026 Annual Meeting** Vancouver, Canada, 2026 (upcoming) 
+***Poster***    
+**Özdemir, Ş.**, Ataseven, N., Kruijne, W., Akyürek, A. & Schneider, D. Dynamics of motor code formation in working memory
 
 **NVP Winter Conference** Egmond aan Zee, the Netherlands, 2025   
 ***Poster***    
